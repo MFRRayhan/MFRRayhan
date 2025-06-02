@@ -76,8 +76,7 @@ Feel free to reach out to me:
 ## 🌐 Connect With Me
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a>
-  <a href="https://www.facebook.com/your-profile" target="_blank" title="Facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"></a>
+  <a href="https://www.facebook.com/MFR.Rayhan" target="_blank" title="Facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"></a>
 </div>
 
 ---
