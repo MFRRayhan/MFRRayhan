@@ -1,3 +1,5 @@
+<img align="right" alt="Logo" src="https://github.com/MFRRayhan/MFRRayhan/blob/main/rayhan-github-card.png" width="100%" height="auto">
+
 <h1 align="center">Hi there! 👋 I'm Md. Fazle Rabbi Rayhan</h1>
 
 ## 👨‍💻 About Me
