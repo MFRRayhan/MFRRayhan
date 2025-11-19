@@ -31,9 +31,10 @@ I have real-world experience with:
 
 ## 🌱 Currently Learning
 
-- Deepening skills in **React.js**, **Next.js**, and **Node.js**
-- Exploring **full-stack development** with modern tools
-- Improving performance-focused & accessible UI development
+- Deepening skills in Next.js and Node.js
+- Exploring full-stack MERN development
+- Improving performance-focused & accessible UI
+- Learning advanced deployment & cloud tools (Vercel, Netlify, Firebase)
 
 ---
 
