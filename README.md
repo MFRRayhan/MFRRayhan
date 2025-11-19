@@ -1,93 +1,102 @@
 <img align="right" alt="Logo" src="https://github.com/MFRRayhan/MFRRayhan/blob/main/rayhan-github-card.png" width="100%" height="auto">
 
-<ul align="center">
-    <summary><h1 align="center">Hi there! 👋 I'm Md. Fazle Rabbi Rayhan</h1></summary>
-    <!--- typo --->
-    <a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Passionate+Frontend+Web+Developer;Creative+UI-Focused+Web+Developer;JavaScript+Enthusiast;React+%26+Modern+JavaScript+Developer;Pixel-Perfect+UI+Developer;Tailwind+%26+Component+Design+Enthusiast;Always+Learning+%26+Improving;Focused+on+Building+Real-World+Projects;Skilled+in+Modern+Deployment+Tools"
-        alt="Typing SVG"
-      /></a>
-  </ul>
+<div align="center">
+
+# 👋 Hi there, I'm **Md. Fazle Rabbi Rayhan**
+
+### Passionate Frontend Web Developer
+
+Focused on Clean UI, Modern JavaScript & High-Quality Web Experiences
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Creative+UI-Focused+Developer;JavaScript+Enthusiast;React+%26+Modern+JavaScript+Developer;Pixel-Perfect+UI+Developer;Tailwind+%26+Responsive+Design+Specialist;Always+Learning+%26+Improving;Focused+on+Real-World+Projects"
+    alt="Typing SVG"
+  />
+</a>
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Front-End Web Developer** who enjoys transforming creative designs into responsive, modern, and user-friendly websites. I’m always eager to learn new technologies and improve my skills. Welcome to my GitHub!
+I am a passionate **Frontend Web Developer** with hands-on experience in building clean, responsive, and user-friendly web applications.
+I enjoy working with modern web technologies and bringing creative UI ideas to life.
 
-<img align="right" alt="animation" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="300"/>
+I have real-world experience with:
+**HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, jQuery, Node.js, MongoDB, Firebase, Vercel, Netlify & GitHub.**
+
+---
 
 ## 🌱 Currently Learning
 
-I'm currently learning **React.js**, **Next.js**, and **Node.js** to take my web development skills to the next level and build full-stack applications.
+- Deepening skills in **React.js**, **Next.js**, and **Node.js**
+- Exploring **full-stack development** with modern tools
+- Improving performance-focused & accessible UI development
 
-## 👯 Open to Collaborate On
+---
 
-I'm open to collaborating on interesting web development projects where I can learn, contribute, and grow with the community.
+## 🤝 Open to Collaborate On
 
-## 🤝 Seeking Help With
+- Frontend web development projects
+- React-based applications
+- Creative UI/UX-focused websites
+- Full-stack MERN projects
 
-Looking for mentorship and guidance to improve my **JavaScript** and full-stack development skills.
+---
 
 ## 📫 Contact Me
 
-Feel free to reach out to me:  
 📧 **md.fazlerabbirayhan786@gmail.com**
 
 ---
 
-## 🛠️ Skills & Tools
+# 🛠️ Skills & Tools
 
-### 👨‍💻 Programming Languages
+### 💻 Frontend
 
-<div style="display: flex; gap: .5rem;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript">
-</div>
+<p>
+  <img height="38" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,bootstrap,jquery" />
+</p>
 
-### 🌐 Frontend Development
+### ⚙️ Backend & Database
 
-<div style="display: flex; flex-wrap: wrap; gap: .5rem;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap">
-  <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" title="jQuery">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" title="React.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" title="Next.js">
-</div>
+<p>
+  <img height="38" src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+</p>
 
-### ⚙️ Backend & Full-Stack (Learning)
+### 🚀 Deployment & Tools
 
-<div style="display: flex; gap: .5rem;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js">
+<p>
+  <img height="38" src="https://skillicons.dev/icons?i=vercel,netlify,firebase,github,git,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=tokyonight" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MFRRayhan&theme=tokyonight" height="165" />
+
 </div>
 
 ---
 
-## 🖥️ Tools & IDEs
+# 🌐 Connect With Me
 
-<div style="display: flex; gap: .5rem;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git">
+<div style="display: flex; gap: 1rem;">
+  <a href="https://www.facebook.com/MFR.Rayhan" target="_blank" title="Facebook">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="40">
+  </a>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ✨ Thanks for visiting my profile!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=dark)
+Feel free to explore my repositories —
+**Let’s build something amazing together! 🚀**
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MFRRayhan&theme=dark)
-
----
-
-## 🌐 Connect With Me
-
-<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-  <a href="https://www.facebook.com/MFR.Rayhan" target="_blank" title="Facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"></a>
-</div>
-
----
-
-Feel free to explore my repositories, and let’s create something amazing together! 🚀
