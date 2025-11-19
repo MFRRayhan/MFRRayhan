@@ -4,7 +4,7 @@
     <summary><h1 align="center">Hi there! 👋 I'm Md. Fazle Rabbi Rayhan</h1></summary>
     <!--- typo --->
     <a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Passionate+Frontend+Web+Developer;Creative+UI-Focused+Web+Developer;JavaScript+Enthusiast;React+%26+Modern+JavaScript+Learner;Pixel-Perfect+UI+Developer;Tailwind+%26+Component+Design+Enthusiast;Always+Learning+%26+Improving;Focused+on+Building+Real-World+Projects;Skilled+in+Modern+Deployment+Tools"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Passionate+Frontend+Web+Developer;Creative+UI-Focused+Web+Developer;JavaScript+Enthusiast;React+%26+Modern+JavaScript+Developer;Pixel-Perfect+UI+Developer;Tailwind+%26+Component+Design+Enthusiast;Always+Learning+%26+Improving;Focused+on+Building+Real-World+Projects;Skilled+in+Modern+Deployment+Tools"
         alt="Typing SVG"
       /></a>
   </ul>
