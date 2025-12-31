@@ -53,11 +53,7 @@ I have real-world experience with:
 
 ## 🌱 Currently Learning
 
-- Deepening skills in Next.js and Node.js
-- Exploring full-stack MERN development
-- Improving performance-focused & accessible UI
-- Learning advanced deployment & cloud tools (Vercel, Netlify, Firebase)
-- ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=for-the-badge&logo=nodedotjs&color=339933)
 
 ---
 
