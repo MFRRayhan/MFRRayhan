@@ -106,10 +106,6 @@ I have real-world experience with:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MFRRayhan&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 # 📈 GitHub Activity Graph
 
 <p>
