@@ -18,6 +18,27 @@ Focused on Clean UI, Modern JavaScript & High-Quality Web Experiences
 </div>
 
 ---
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/mfr-rayhan/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/MFRRayhan">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25">
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/MFR.Rayhan">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="25">
+</a>
+
+<!-- X / Twitter -->
+<a href="https://x.com/MFRRayhan">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" height="25">
+</a>
+
+---
 
 ## 👨‍💻 About Me
 
