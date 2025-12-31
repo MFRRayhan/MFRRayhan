@@ -104,6 +104,15 @@ I have real-world experience with:
 
 ---
 
+# 📈 GitHub Activity Graph
+
+<p>
+  <img
+    alt="Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MFRRayhan&theme=react-dark&hide_border=true"
+  />
+</p>
+
 ## ✨ Thanks for visiting my profile!
 
 Feel free to explore my repositories —
