@@ -6,6 +6,24 @@
 
 ### Passionate Frontend Web Developer
 
+<p>
+  <!-- Total Stars -->
+<a href="https://github.com/MFRRayhan?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MFRRayhan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
+
+<!-- Followers -->
+<a href="https://github.com/MFRRayhan?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MFRRayhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+
+<!-- Profile Views (Optional) -->
+<a href="https://github.com/MFRRayhan">
+  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/MFRRayhan-profile-views"/>
+</a>
+
+<p/>
+
 Focused on Clean UI, Modern JavaScript & High-Quality Web Experiences
 
 <a href="https://git.io/typing-svg">
