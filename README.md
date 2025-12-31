@@ -17,13 +17,6 @@ Focused on Clean UI, Modern JavaScript & High-Quality Web Experiences
 
 </div>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Creative+UI-Focused+Developer;JavaScript+Enthusiast;React+%26+Modern+JavaScript+Developer;Pixel-Perfect+UI+Developer;Tailwind+%26+Responsive+Design+Specialist;Always+Learning+%26+Improving;Focused+on+Real-World+Projects"
-    alt="Typing SVG"
-  />
-</a>
-
 ---
 
 ## 👨‍💻 About Me
