@@ -25,6 +25,7 @@ I am a passionate **Frontend Web Developer** with hands-on experience in buildin
 I enjoy working with modern web technologies and bringing creative UI ideas to life.
 
 I have real-world experience with:
+
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=F7DF1E) ![React](https://img.shields.io/badge/Library-React-informational?style=for-the-badge&logo=react&color=61DAFB) ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/Framework-Express-informational?style=for-the-badge&logo=express&color=000000) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&color=47A248) ![Firebase](https://img.shields.io/badge/Platform-Firebase-informational?style=for-the-badge&logo=firebase&color=FFCA28) ![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=for-the-badge&logo=vercel&color=000000) ![Netlify](https://img.shields.io/badge/Deployment-Netlify-informational?style=for-the-badge&logo=netlify&color=00C7B7) ![GitHub](https://img.shields.io/badge/repo-GitHub-informational?style=for-the-badge&logo=github&color=181717)
 
 ---
