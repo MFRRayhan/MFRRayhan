@@ -17,9 +17,9 @@
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MFRRayhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
 
-<!-- Profile Views (Optional) -->
+<!-- profile view -->
 <a href="https://github.com/MFRRayhan">
-  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/MFRRayhan-profile-views"/>
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/MFRRayhan-profile-views"/>
 </a>
 
 <p/>
