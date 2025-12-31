@@ -1,4 +1,4 @@
-<img align="right" alt="Logo" src="https://github.com/MFRRayhan/MFRRayhan/blob/main/rayhan-github-card-3.png" width="100%" height="auto">
+<img align="right" alt="Logo" src="https://github.com/MFRRayhan/MFRRayhan/blob/main/banner.png" width="100%" height="auto">
 
 <div align="center">
 
@@ -97,8 +97,6 @@ I have real-world experience with:
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=MFRRayhan&theme=tokyonight&cache_seconds=86400)
-
-
 
 ---
 
