@@ -23,6 +23,11 @@ Focused on Clean UI, Modern JavaScript & High-Quality Web Experiences
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
 </a>
 
+<!-- gmail -->
+<a href="mailto:md.fazlerabbirayhan786@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
+</a>
+
 <!-- GitHub -->
 <a href="https://github.com/MFRRayhan">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25">
