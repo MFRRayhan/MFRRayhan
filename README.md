@@ -71,33 +71,6 @@ I have real-world experience with:
 
 ---
 
-## 📫 Contact Me
-
-📧 **md.fazlerabbirayhan786@gmail.com**
-
----
-
-# 🛠️ Skills & Tools
-
-### 💻 Frontend
-
-<p>
-  <img height="38" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,bootstrap,jquery" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img height="38" src="https://skillicons.dev/icons?i=nodejs,mongodb" />
-</p>
-
-### 🚀 Deployment & Tools
-
-<p>
-  <img height="38" src="https://skillicons.dev/icons?i=vercel,netlify,firebase,github,git,vscode" />
-</p>
-
----
 
 # 📊 GitHub Stats
 
