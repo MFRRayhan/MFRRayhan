@@ -17,11 +17,6 @@
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MFRRayhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
 
-<!-- profile view -->
-<a href="https://github.com/MFRRayhan">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/MFRRayhan-profile-views"/>
-</a>
-
 <p/>
 
 Focused on Clean UI, Modern JavaScript & High-Quality Web Experiences
@@ -36,6 +31,7 @@ Focused on Clean UI, Modern JavaScript & High-Quality Web Experiences
 </div>
 
 ---
+
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/mfr-rayhan/">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
@@ -89,7 +85,6 @@ I have real-world experience with:
 
 ---
 
-
 # 📊 GitHub Stats
 
 <div align="center">
@@ -101,9 +96,7 @@ I have real-world experience with:
 
 ---
 
-
 ## ✨ Thanks for visiting my profile!
 
 Feel free to explore my repositories —
 **Let’s build something amazing together! 🚀**
-
