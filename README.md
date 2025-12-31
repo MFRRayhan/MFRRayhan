@@ -17,6 +17,28 @@ Focused on Clean UI, Modern JavaScript & High-Quality Web Experiences
 
 </div>
 
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Creative+UI-Focused+Developer;JavaScript+Enthusiast;React+%26+Modern+JavaScript+Developer;Pixel-Perfect+UI+Developer;Tailwind+%26+Responsive+Design+Specialist;Always+Learning+%26+Improving;Focused+on+Real-World+Projects"
+    alt="Typing SVG"
+  />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/mfr-rayhan/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/MFRRayhan">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25">
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/MFR.Rayhan">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="25">
+</a>
+
 ---
 
 ## 👨‍💻 About Me
@@ -87,15 +109,6 @@ I have real-world experience with:
 
 ---
 
-# 🌐 Connect With Me
-
-<div style="display: flex; gap: 1rem;">
-  <a href="https://www.facebook.com/MFR.Rayhan" target="_blank" title="Facebook">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="40">
-  </a>
-</div>
-
----
 
 ## ✨ Thanks for visiting my profile!
 
