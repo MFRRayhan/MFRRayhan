@@ -95,10 +95,9 @@ I have real-world experience with:
 
 # 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=tokyonight" height="165" />
-  <img src="https://streak-stats.demolab.com?user=MFRRayhan&theme=tokyonight&cache_seconds=86400" height="165" />
-</div>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=MFRRayhan&theme=tokyonight&cache_seconds=86400)
+
 
 
 ---
