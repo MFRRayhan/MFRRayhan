@@ -95,8 +95,6 @@ I have real-world experience with:
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=material-palenight)
-
 <h3>🔥 Streak Stats</h3>
 
   <p>
@@ -110,7 +108,7 @@ I have real-world experience with:
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MFRRayhan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MFRRayhan&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true" height="192px"/></a>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=material-palenight&hide_border=true)
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MFRRayhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MFRRayhan&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" height="192px"/></a>
 <br/>
 
