@@ -80,7 +80,10 @@ I have real-world experience with:
 
 ## 🌱 Currently Learning
 
-![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=for-the-badge&logo=nodedotjs&color=339933)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=for-the-badge&logo=nodedotjs&color=339933)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/State-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
