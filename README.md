@@ -130,27 +130,31 @@ I have real-world experience with:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<h3>🔥 Streak Stats</h3>
+<div align="center">
 
-  <p>
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MFRRayhan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MFRRayhan&theme=material-palenight&hide_border=true&short_numbers=true"/>
-  </p>
+### 🔥 Contribution Streak
 
-  <h3>💻 GitHub Profile Stats</h3>
+<img title="GitHub Streak" alt="MFRRayhan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MFRRayhan&theme=material-palenight&hide_border=true&short_numbers=true"/>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=material-palenight&hide_border=true)
-<br/>
-<img alt="MFRRayhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MFRRayhan&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" height="220px"/>
 <br/>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+### 💻 Profile & Language Overview
 
-<img
-    alt="MFRRayhan's Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph/?username=MFRRayhan&theme=material-palenight&hide_border=true"
-  />
+<img alt="MFRRayhan's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=material-palenight&hide_border=true" width="48%"/> <img alt="MFRRayhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MFRRayhan&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" width="48%"/>
+
+<br/>
+
+### 📈 Activity Graph
+
+<img alt="MFRRayhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MFRRayhan&theme=material-palenight&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ## ✨ Thanks for visiting my profile!
 
