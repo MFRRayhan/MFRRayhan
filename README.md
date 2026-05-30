@@ -135,26 +135,21 @@ I have real-world experience with:
 <h3>🔥 Streak Stats</h3>
 
   <p>
-    <a href="https://github.com/MFRRayhan/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MFRRayhan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MFRRayhan&theme=material-palenight&hide_border=true&short_numbers=true"/>
-    </a>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MFRRayhan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MFRRayhan&theme=material-palenight&hide_border=true&short_numbers=true"/>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=material-palenight&hide_border=true)
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MFRRayhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MFRRayhan&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" height="192px"/></a>
+<img alt="MFRRayhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MFRRayhan&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" height="192px"/>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<a href="https://github.com/MFRRayhan/github-readme-activity-graph">
-  <img
+<img
     alt="MFRRayhan's Activity Graph"
     src="https://github-readme-activity-graph.vercel.app/graph/?username=MFRRayhan&theme=material-palenight&hide_border=true"
   />
-</a>
 
 ## ✨ Thanks for visiting my profile!
 
