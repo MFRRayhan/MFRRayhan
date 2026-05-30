@@ -141,6 +141,7 @@ I have real-world experience with:
   <h3>💻 GitHub Profile Stats</h3>
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=material-palenight&hide_border=true)
+<br/>
 <img alt="MFRRayhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MFRRayhan&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" height="220px"/>
 <br/>
 
