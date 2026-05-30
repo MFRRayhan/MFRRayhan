@@ -143,17 +143,14 @@ I have real-world experience with:
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=material-palenight&hide_border=true)
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MFRRayhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MFRRayhan&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" height="192px"/></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MFRRayhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MFRRayhan&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" height="220px"/></a>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/MFRRayhan/github-readme-activity-graph">
   <img
     alt="MFRRayhan's Activity Graph"
     src="https://github-readme-activity-graph.vercel.app/graph/?username=MFRRayhan&theme=material-palenight&hide_border=true"
