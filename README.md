@@ -142,7 +142,7 @@ I have real-world experience with:
 
 ### 💻 Profile & Language Overview
 
-<img alt="MFRRayhan's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=material-palenight&hide_border=true" width="48%"/> <img alt="MFRRayhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MFRRayhan&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" width="48%"/>
+<img alt="MFRRayhan's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=material-palenight&hide_border=true" width="48%"/> <img alt="MFRRayhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MFRRayhan&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" width="48%" height="auto"/>
 
 <br/>
 
