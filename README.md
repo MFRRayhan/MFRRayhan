@@ -1,8 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:03373D,100:CAEB66&height=220&section=header&text=MD.%20FAZLE%20RABBI%20RAYHAN&fontSize=40&fontColor=FFFFFF&fontAlignY=38&descSize=18&descAlign=50&animation=fadeIn" width="100%" />
+
 <img align="right" alt="Logo" src="https://github.com/MFRRayhan/MFRRayhan/blob/main/banner.png" width="100%" height="auto">
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:03373D,100:CAEB66&height=220&section=header&text=MD.%20FAZLE%20RABBI%20RAYHAN&fontSize=40&fontColor=FFFFFF&fontAlignY=38&descSize=18&descAlign=50&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=CAEB66&center=true&vCenter=true&width=960&lines=Full-Stack+MERN+Developer;React+%26+Modern+JavaScript+Specialist;Tailwind+%26+Responsive+UI+Expert;Pixel-Perfect+Frontend+Engineering;Problem-Solver+%26+Clean+Code+Advocate;Always+Learning+%26+Implementing;Focused+on+Real-World+Applications;Professional+Web+Development" alt="Typing SVG" />
 
@@ -55,14 +55,7 @@
 
 <p/>
 
-Focused on Clean UI, Modern JavaScript & High-Quality Web Experiences
-
-<a href="https://git.io/typing-svg">
-  <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2B90FF&center=true&vCenter=true&width=800&lines=Full-Stack+MERN+Developer;React+%26+Modern+JavaScript+Specialist;Tailwind+%26+Responsive+UI+Expert;Pixel-Perfect+Frontend+Engineering;Problem-Solver+%26+Clean+Code+Advocate;Always+Learning+%26+Implementing;Focused+on+Real-World+Applications;Professional+Web+Development"
-  alt="Typing SVG"
-/>
-</a>
+## Focused on Clean UI, Modern JavaScript & High-Quality Web Experiences
 
 </div>
 
