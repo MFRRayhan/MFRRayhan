@@ -2,9 +2,37 @@
 
 <div align="center">
 
-# 👋 Hi there, I'm **Md. Fazle Rabbi Rayhan**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:03373D,100:CAEB66&height=220&section=header&text=MD.%20FAZLE%20RABBI%20RAYHAN&fontSize=40&fontColor=FFFFFF&fontAlignY=38&descSize=18&descAlign=50&animation=fadeIn" width="100%" />
 
-### Passionate Frontend Web Developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=CAEB66&center=true&vCenter=true&width=960&lines=Full-Stack+MERN+Developer;React+%26+Modern+JavaScript+Specialist;Tailwind+%26+Responsive+UI+Expert;Pixel-Perfect+Frontend+Engineering;Problem-Solver+%26+Clean+Code+Advocate;Always+Learning+%26+Implementing;Focused+on+Real-World+Applications;Professional+Web+Development" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-03373D?style=flat-square&logo=googlemaps&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Learning-Full--Stack_Development-CAEB66?style=flat-square&logo=nextdotjs&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-MERN_Stack-0B0F14?style=flat-square&logo=mongodb&logoColor=47A248"/>
+</p>
+
+<p>
+  <a href="https://github.com/MFRRayhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:md.fazlerabbirayhan786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://mfr-rayhan-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live-CAEB66?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+</p>
 
 <p>
   <!-- Total Stars -->
