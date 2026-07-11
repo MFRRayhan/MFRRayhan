@@ -1,6 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:03373D,100:CAEB66&height=220&section=header&text=MD.%20FAZLE%20RABBI%20RAYHAN&fontSize=40&fontColor=FFFFFF&fontAlignY=38&descSize=18&descAlign=50&animation=fadeIn" width="100%" />
+<!-- Banner -->
+<p align="center">
+  <img
+    src="https://github.com/MFRRayhan/MFRRayhan/blob/main/banner.png?raw=true"
+    alt="MFR Rayhan Banner"
+    width="100%"
+  />
+</p>
 
-<img align="right" alt="Logo" src="https://github.com/MFRRayhan/MFRRayhan/blob/main/banner.png" width="100%" height="auto">
+<!-- Wave -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:03373D,100:CAEB66&height=120&section=footer"
+    width="100%"
+  />
+</p>
 
 <div align="center">
 
