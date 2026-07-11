@@ -55,6 +55,8 @@
 
 </div>
 
+--
+
 ## 👨‍💻 About Me
 
 I am a passionate **Frontend Web Developer** with hands-on experience in building clean, responsive, and user-friendly web applications.
