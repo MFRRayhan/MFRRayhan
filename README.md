@@ -1,4 +1,4 @@
-<img align="right" alt="Logo" src="https://github.com/MFRRayhan/MFRRayhan/blob/main/banner.png" width="100%"
+<img align="right" alt="Logo" src="https://github.com/MFRRayhan/MFRRayhan/blob/main/banner.png" width="100%" height="auto">
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=CAEB66&center=true&vCenter=true&width=960&lines=Full-Stack+MERN+Developer;React+%26+Modern+JavaScript+Specialist;Tailwind+%26+Responsive+UI+Expert;Pixel-Perfect+Frontend+Engineering;Problem-Solver+%26+Clean+Code+Advocate;Always+Learning+%26+Implementing;Focused+on+Real-World+Applications;Professional+Web+Development" alt="Typing SVG" />
 
