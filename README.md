@@ -161,6 +161,39 @@ I have real-world experience with:
 
 ---
 
+## 📬 Connect
+
+<div align="center">
+
+<a href="mailto:md.fazlerabbirayhan786@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-md.fazlerabbirayhan786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mfr-rayhan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-MD._Fazle_Rabbi_Rayhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/MFRRayhan" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-MFRRayhan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://mfr-rayhan-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live_Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💡 _Building modern, scalable, and user-focused web applications with the MERN Stack._
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:03373d,100:caeb66&height=120&section=footer" width="100%"/>
+
+</div>
+
+
 <div align="center">
 
 ## ✨ Thanks for visiting my profile!
