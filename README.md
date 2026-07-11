@@ -1,5 +1,5 @@
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:03373D,100:CAEB66&height=220&section=header&animation=fadeIn" width="100%" />
+<div align="center">
 <img align="right" alt="Logo" src="https://github.com/MFRRayhan/MFRRayhan/blob/main/banner.png" width="100%"
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=CAEB66&center=true&vCenter=true&width=960&lines=Full-Stack+MERN+Developer;React+%26+Modern+JavaScript+Specialist;Tailwind+%26+Responsive+UI+Expert;Pixel-Perfect+Frontend+Engineering;Problem-Solver+%26+Clean+Code+Advocate;Always+Learning+%26+Implementing;Focused+on+Real-World+Applications;Professional+Web+Development" alt="Typing SVG" />
