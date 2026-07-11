@@ -161,5 +161,5 @@ I have real-world experience with:
 
 ## ✨ Thanks for visiting my profile!
 
-Feel free to explore my repositories —
+Feel free to explore my repositories. 
 **Let’s build something amazing together! 🚀**
