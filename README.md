@@ -155,6 +155,10 @@ I have real-world experience with:
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MFRRayhan/MFRRayhan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 ---
 
 <div align="center">
@@ -163,7 +167,3 @@ I have real-world experience with:
 
 Feel free to explore my repositories. 
 **Let’s build something amazing together! 🚀**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MFRRayhan/MFRRayhan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
