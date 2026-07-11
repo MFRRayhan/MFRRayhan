@@ -189,6 +189,11 @@ I have real-world experience with:
 
 ### 💡 _Building modern, scalable, and user-focused web applications with the MERN Stack._
 
+## ✨ Thanks for visiting my profile!
+
+Feel free to explore my repositories. 
+**Let’s build something amazing together! 🚀**
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:03373d,100:caeb66&height=120&section=footer" width="100%"/>
 
 </div>
