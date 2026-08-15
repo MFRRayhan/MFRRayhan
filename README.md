@@ -135,13 +135,11 @@ I have real-world experience with:
 <p align="center">
   <img
     width="48%"
-    height="195"
     src="https://github-stats-extended.vercel.app/api?username=MFRRayhan&theme=tokyonight&hide_border=true"
     alt="MFRRayhan's GitHub Stats"
   />
   <img
     width="48%"
-    height="195"
     src="https://github-readme-streak-stats-eight.vercel.app/?user=MFRRayhan&theme=tokyonight&hide_border=true&short_numbers=true"
     alt="MFRRayhan's GitHub Streak"
   />
