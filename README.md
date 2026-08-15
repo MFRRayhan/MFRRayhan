@@ -120,30 +120,77 @@ I have real-world experience with:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats Dashboard
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MFRRayhan&theme=tokyonight"
+    alt="MFRRayhan's GitHub Profile Details"
+  />
+</p>
 
-### 🔥 Contribution Streak
+---
 
-<img title="GitHub Streak" alt="MFRRayhan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MFRRayhan&theme=material-palenight&hide_border=true&short_numbers=true"/>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=MFRRayhan&theme=tokyonight&hide_border=true&short_numbers=true"
+    alt="MFRRayhan's GitHub Streak"
+  />
+</p>
 
-<br/>
+---
 
-### 💻 Profile & Language Overview
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=MFRRayhan&theme=tokyonight&hide_border=true"
+    alt="MFRRayhan's GitHub Stats"
+  />
+</p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 2%; flex-wrap: wrap;">
-  <img alt="MFRRayhan's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MFRRayhan&show_icons=true&count_private=true&theme=material-palenight&hide_border=true" style="height: 195px; width: auto; object-fit: contain; margin-bottom: 10px;"/>
-  <img alt="MFRRayhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MFRRayhan&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" style="height: 195px; width: auto; object-fit: contain; margin-bottom: 10px;"/>
-</div>
+---
 
-<br/>
+## 📈 Repository Statistics
 
-### 📈 Activity Graph
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MFRRayhan&theme=tokyonight"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MFRRayhan&theme=tokyonight"
+    alt="Repositories Per Language"
+  />
+</p>
 
-<img alt="MFRRayhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MFRRayhan&theme=material-palenight&hide_border=true" width="100%"/>
+---
 
-</div>
+## 💻 Language & Productivity
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MFRRayhan&theme=tokyonight"
+    alt="Most Used Commit Languages"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MFRRayhan&theme=tokyonight&utcOffset=6"
+    alt="Productive Coding Time"
+  />
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MFRRayhan&theme=github-dark&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MFRRayhan/MFRRayhan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -181,7 +228,7 @@ I have real-world experience with:
 
 ## ✨ Thanks for visiting my profile!
 
-Feel free to explore my repositories. 
+Feel free to explore my repositories.
 **Let’s build something amazing together! 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:03373d,100:caeb66&height=120&section=footer" width="100%"/>
