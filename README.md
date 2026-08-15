@@ -124,7 +124,6 @@ I have real-world experience with:
 
 <p align="center">
   <img
-    width="96%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MFRRayhan&theme=tokyonight"
     alt="MFRRayhan's GitHub Profile Details"
   />
