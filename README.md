@@ -234,3 +234,81 @@ Feel free to explore my repositories.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:03373d,100:caeb66&height=120&section=footer" width="100%"/>
 
 </div>
+
+<!--  -->
+
+# 📊 GitHub Stats Dashboard
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MFRRayhan&theme=tokyonight"
+    alt="MFRRayhan's GitHub Profile Details"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=MFRRayhan&theme=tokyonight&hide_border=true&short_numbers=true"
+    alt="MFRRayhan's GitHub Streak"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-stats-extended.vercel.app/api?username=MFRRayhan&theme=tokyonight&hide_border=true"
+    alt="MFRRayhan's GitHub Stats"
+  />
+</p>
+
+---
+
+## 📈 Repository Statistics
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MFRRayhan&theme=tokyonight"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MFRRayhan&theme=tokyonight"
+    alt="Repositories Per Language"
+  />
+</p>
+
+---
+
+## 💻 Language & Productivity
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MFRRayhan&theme=tokyonight"
+    alt="Most Used Commit Languages"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MFRRayhan&theme=tokyonight&utcOffset=6"
+    alt="Productive Coding Time"
+  />
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MFRRayhan&theme=github-dark&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
